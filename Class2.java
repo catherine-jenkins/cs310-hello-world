@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Catherine Jenkins
  */
 
 public class Class2 {
